@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/aotbank-frontend/static/css/main.ff06fb95.css",
-    "main.js": "/aotbank-frontend/static/js/main.4fc4ff64.js",
-    "index.html": "/aotbank-frontend/index.html",
-    "main.ff06fb95.css.map": "/aotbank-frontend/static/css/main.ff06fb95.css.map",
-    "main.4fc4ff64.js.map": "/aotbank-frontend/static/js/main.4fc4ff64.js.map"
+    "main.css": "/mutualbank-frontend/static/css/main.ff06fb95.css",
+    "main.js": "/mutualbank-frontend/static/js/main.4fc4ff64.js",
+    "index.html": "/mutualbank-frontend/index.html",
+    "main.ff06fb95.css.map": "/mutualbank-frontend/static/css/main.ff06fb95.css.map",
+    "main.4fc4ff64.js.map": "/mutualbank-frontend/static/js/main.4fc4ff64.js.map"
   },
   "entrypoints": [
     "static/css/main.ff06fb95.css",
